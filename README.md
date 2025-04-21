@@ -2,7 +2,8 @@
 
 A futuristic and minimal **Linktree-style personal portfolio page** featuring a 3D robot named **T-Bot**, built using **HTML**, **CSS**, and **Spline**.
 
-![T-Bot Preview](./screenshot.png)
+![image](https://github.com/user-attachments/assets/596efca7-94d1-46f9-b119-07df586fa754)
+
 
 ---
 
