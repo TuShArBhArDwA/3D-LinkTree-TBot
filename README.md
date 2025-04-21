@@ -31,20 +31,15 @@ A futuristic and minimal **Linktree-style personal portfolio page** featuring a 
 📦3d-linktree-tbot <br>
 ├── 📄 index.html # Main HTML file <br>
 ├── 📄 style.css # Stylesheet <br>
-└── 🖼️ gradient.png # Rendered image or fallback 
+└── 🖼️ gradient.png # Rendered image or fallback  <br>
+└── 🖼️ favicon.png # Favicon image  
 
 
 ---
 
 ## 🌐 Live Demo
 
-> 🧪 **Coming Soon on**: [tushar-bhardwaj.vercel.app](https://tushar-bhardwaj.vercel.app)
-
----
-
-## 📷 Preview
-
-![3D Robot Preview](./preview.png)
+> 🚀 **Deployed and live**: [T-Bot](https://t-bot-blush.vercel.app/)
 
 ---
 
