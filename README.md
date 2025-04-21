@@ -64,8 +64,7 @@ A futuristic and minimal **Linktree-style personal portfolio page** featuring a 
 
 ## 🧑‍🎨 Credits
 - 3D Model: Made in Spline
-- Developed by: Tushar Bhardwaj
-
+- Developed by: [Tushar Bhardwaj](https://tushar-bhardwaj.vercel.app/)
 ## 🛡 License
 MIT License — feel free to use, share, and modify!
 
