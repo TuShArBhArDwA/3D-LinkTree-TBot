@@ -54,13 +54,14 @@ A futuristic and minimal **Linktree-style personal portfolio page** featuring a 
 3. Customize links, text, and Spline embed as needed.
 
 ## 💡 Customization Tips
-- You can change the robot’s name and personality in the header.
+- You can change the [Robot](https://app.spline.design/community/file/9d60c478-0e28-4514-a1ac-5605c039d6e6) name and personality in the header.
 - Update the Spline scene by exporting your own model or tweaking animations.
 - Add links to your GitHub, LinkedIn, Portfolio, or anything else.
 
 ## 🧑‍🎨 Credits
-- 3D Model: Made in Spline
+- 3D Model: Made in [Spline](https://app.spline.design/community/file/9d60c478-0e28-4514-a1ac-5605c039d6e6)
 - Developed by: [Tushar Bhardwaj](https://tushar-bhardwaj.vercel.app/)
+
 ## 🛡 License
 [MIT License](./LICENSE) — feel free to use, share, and modify!
 
