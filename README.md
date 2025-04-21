@@ -51,7 +51,7 @@ A futuristic and minimal **Linktree-style personal portfolio page** featuring a 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TuShArBhArDwA/3d-linktree-tbot.git
+   git clone https://github.com/TuShArBhArDwA/3D-LinkTree-TBot.git
    cd 3d-linktree-tbot
    ```
 2. Open index.html in your browser.
